@@ -1,6 +1,6 @@
 # Product Roadmap for RTL Application
 
-Scope for version 1.0
+Scope for Minimum Viable Product (Version 1.0)
 
 Unlock Wallet
 
@@ -27,6 +27,6 @@ LN Wallet
 - Generate pub key to receive bitcoins
 - Send bitcoins to an address
 
-Invoice
-- Decode Invoice
-- Pay Invoice
+Payments
+- Decode Payment Request
+- Send Payment
