@@ -21,9 +21,11 @@ Channel Management
 - Listing of channels
 - Open channel with connected peers
 
+## Version 1.1.0
+
 Globalization - To allow for language customization
 
-## Version 1.1.0
+## Version 1.2.0
 
 Start
 - Create Wallet
