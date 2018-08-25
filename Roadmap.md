@@ -2,7 +2,7 @@
 
 Scope for Minimum Viable Product (Version 1.0)
 
-Wallet
+Start
 - Create Wallet
 - Unlock Wallet
 
