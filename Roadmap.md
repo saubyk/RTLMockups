@@ -1,18 +1,16 @@
 # Product Roadmap for RTL Application
 
-Scope for Minimum Viable Product (Version 1.0)
+Version 1.0 - Minimum Viable Product
 
 Start
-- Create Wallet
 - Unlock Wallet
 
-Basic Dashboard
+Dashboard (Home Page)
 - Wallet Balance
 - Channel Balance
 - Channel Status
 - Chain sync status
 - Fee Report
-- Network Status
 
 Peer Management
 - Listing of connected peers
@@ -22,12 +20,22 @@ Channel Management
 - Status of channels (Active, Inactive, Pending)
 - Listing of channels
 - Open channel with connected peers
+
+Version 2.0
+
+Start
+- Create Wallet
+
+Dashboard
+- Network Status
+
+Channel Management
 - Channel detail - Bi-directional channel balance view
 - Close Channel
 
 LN Wallet
-- Generate pub key to receive bitcoins
-- Send bitcoins to an address
+- Generate pub key to receive bitcoin
+- Send bitcoin to an address
 
 Payments
 - Decode Payment Request
