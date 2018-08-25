@@ -21,6 +21,8 @@ Channel Management
 - Listing of channels
 - Open channel with connected peers
 
+Globalization - To allow for language customization
+
 ## Version 1.1.0
 
 Start
