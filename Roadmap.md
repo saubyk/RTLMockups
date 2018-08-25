@@ -2,7 +2,9 @@
 
 Scope for Minimum Viable Product (Version 1.0)
 
-Unlock Wallet
+Wallet
+- Create Wallet
+- Unlock Wallet
 
 Basic Dashboard
 - Wallet Balance
