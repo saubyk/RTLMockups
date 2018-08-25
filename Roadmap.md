@@ -16,7 +16,7 @@ Basic Dashboard
 
 Peer Management
 - Listing of connected peers
-- Intiate connection with peers, without input as public key
+- Intiate connection with peers, with input as public key
 
 Channel Management
 - Status of channels (Active, Inactive, Pending)
